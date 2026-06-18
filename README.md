@@ -1,12 +1,5 @@
 # logic box
-# 🎯 Python Menu Driven Project
-
-## 📌 Project Name
 Pattern Generator and Number Analyzer
-
----
-
-## 📖 Description
 This Python project is a simple menu-driven program.  
 The user can choose different options from the menu:
 
